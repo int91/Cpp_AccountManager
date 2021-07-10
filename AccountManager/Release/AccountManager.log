@@ -1,0 +1,14 @@
+﻿  AccountManager.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+E:\ProgrammingProjects\AccountManager\AccountManager\AccountManager.cpp(140,29): warning C4018: '>=': signed/unsigned mismatch
+E:\ProgrammingProjects\AccountManager\AccountManager\AccountManager.cpp(142,27): warning C4018: '<': signed/unsigned mismatch
+E:\ProgrammingProjects\AccountManager\AccountManager\AccountManager.cpp(149,22): warning C4018: '>=': signed/unsigned mismatch
+E:\ProgrammingProjects\AccountManager\AccountManager\AccountManager.cpp(176,23): warning C4018: '<': signed/unsigned mismatch
+E:\ProgrammingProjects\AccountManager\AccountManager\AccountManager.cpp(197,27): warning C4018: '<': signed/unsigned mismatch
+E:\ProgrammingProjects\AccountManager\AccountManager\AccountManager.cpp(215,23): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  0 of 286 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  AccountManager.vcxproj -> E:\ProgrammingProjects\AccountManager\Release\AccountManager.exe
